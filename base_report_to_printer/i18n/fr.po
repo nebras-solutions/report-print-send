@@ -528,7 +528,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:base_report_to_printer.view_users_form_simple_modif
 #: selection:printing.printer,status:0
 msgid "Printing"
-msgstr "Impression en cours"
+msgstr "Impression avec CUPS"
 
 #. module: base_report_to_printer
 #: model:res.groups,name:base_report_to_printer.printing_group_manager
@@ -643,7 +643,7 @@ msgstr ""
 #: model:ir.ui.view,arch_db:base_report_to_printer.printing_server_view_search
 #: model:ir.ui.view,arch_db:base_report_to_printer.printing_server_view_tree
 msgid "Servers"
-msgstr ""
+msgstr "Serveurs"
 
 #. module: base_report_to_printer
 #: model:ir.ui.view,arch_db:base_report_to_printer.printing_printer_view_form
